@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jordan!
-- 👀 I’m interested in XR tech, human-computer interaction, psychology, and travel!
+- 👀 I’m interested in XR tech, consumer electronics, human-computer interaction, psychology, and travel!
 - 🌱 I’m currently learning JavaScript (APIs/JSON), Unity, and C
 - 💞️ I’m looking to collaborate on anything! Contact me if interesting in working together.
 - 📫 Reach me via email at jrud25@vt.edu or via Twitter @jrudman25
