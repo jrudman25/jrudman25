@@ -7,9 +7,10 @@ Right now I’m building with **TypeScript**, **React (Vite)**, **Next.js**, **G
 - Building polished, user-centric web apps  
 - Learning more about immersive and interactive experiences  
 - Growing my portfolio and collaborating on meaningful projects
+- Documenting some of my learning with my blog on [DEV](https://dev.to/jrud25)!
 
 ### ⚡ Workflow
-I build fast, clean, user-friendly applications using modern frameworks and AI tools like **Antigravity**, **Claude Opus**, and **Gemini** for research, prototyping, and idea exploration.
+I build fast, clean, user-friendly applications using modern frameworks and AI tools like **Antigravity**, **Claude**, and **Gemini** for research, prototyping, and idea exploration.
 
 ### 🤝 Collaboration
 I’m open to project ideas, mentorship chats, or teaming up on something interesting. Feel free to reach out!
