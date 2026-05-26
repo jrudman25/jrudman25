@@ -48,7 +48,7 @@ If you’re working on something interesting, I’d be happy to connect.
 ### 📫 Contact
 
 **Email:** jrud25@outlook.com  
-[**LinkedIn**](https://www.linkedin.com/in/jordan-rudman/)
+[**LinkedIn**](https://www.linkedin.com/in/jordan-rudman/)  
 [**Handshake**](https://app.joinhandshake.com/profiles/5z6r4n)
 
 <!---
