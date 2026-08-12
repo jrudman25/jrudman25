@@ -1,55 +1,41 @@
-### 👋 Hi, I’m Jordan
+### 👋 Hi, I'm Jordan
 
-I’m a software developer focused on building polished, user-centered web applications with modern full-stack tools.
- 
-I enjoy turning ideas into clean, reliable products, with an emphasis on thoughtful UX, practical architecture, and continuous learning.
+Software developer building full-stack, real-time, and AI-integrated web apps with React, Next.js, Go, TypeScript, and Postgres. I like shipping things that are fast, useful, and don't cut corners on architecture.
 
-### 🛠️ What I’m building with
+### 🚀 What I've shipped
 
-Right now, I’m focused on modern full-stack development using:
+**LivePulse** — real-time event platform with concurrent Go WebSocket hubs, load-tested at 47 msg/sec @ 250ms p95 latency
+→ [Live](https://livepulse-hq.vercel.app/) · [Repo](https://github.com/jrudman25/LivePulse)
 
-- **TypeScript**
-- **React**
-- **Next.js**
-- **Go**
-- **Supabase**
-- **Upstash Redis**
-- **Vercel**
-- **LLM APIs**
+**Guidepost** — job discovery platform with Gemini-powered resume parsing and automated daily listing ingestion
+→ [Live](https://guidepost-ai.vercel.app) · [Repo](https://github.com/jrudman25/guidepost)
 
-I’m especially interested in building applications that are fast, clean, accessible, and enjoyable to use.
+**ScoreSeeker** — sports stats app indexing 20,000+ teams via secure server-side API integration
+→ [Live](https://scoreseeker.netlify.app/) · [Repo](https://github.com/jrudman25/ScoreSeeker)
 
-### 🌱 What I’m focused on
+**TuneTeaser** — music trivia game testing your knowledge against your own playlists, with a Firebase/Cloud Run Spotify proxy
+→ [Live](https://tuneteaser.web.app/) · [Repo](https://github.com/jrudman25/TuneTeaser)
 
-- Building polished portfolio projects that solve real problems
-- Learning more about immersive and interactive experiences
-- Exploring how AI tools can support better research, prototyping, and development workflows
-- Writing about what I’m learning on [DEV](https://dev.to/jrud25)
-- Growing through collaboration, feedback, and hands-on projects
+**PixLog** — A collaborative, mobile-first photo timeline app with invites, realtime comments, and location enrichment. 
+→ [Live](https://pix-log.vercel.app/) · [Repo](https://github.com/jrudman25/PixLog)
+
+### 🛠️ Stack
+
+TypeScript · React · Next.js · Go · Supabase · Upstash Redis · Vercel · LLM APIs
 
 ### ⚡ How I work
 
-I like to move quickly while keeping the user experience front and center. I use tools like **Windsurf**, **Codex**, and **Claude** to support research, planning, prototyping, debugging, and idea exploration.
+I write custom agent rules and skills for my agents rather than using AI tools out of the box (I've written about it [here](https://dev.to/jrud25/stop-repeating-yourself-use-rules-and-skills-to-level-up-your-ai-agent-3699)) and lean on Claude/Codex for research, prototyping, and debugging throughout my process.
 
-My goal is to build software that feels intentional, not just functional.
+### 🌱 Currently
 
-### 🤝 Open to collaboration
+Building [LifeHub](https://github.com/jrudman25/LifeHub), an always-on AI agent runtime (Next.js dashboard + Postgres/pgvector + Telegram interface). Writing about what I learn on [DEV](https://dev.to/jrud25).
 
-I’m open to:
+### 🤝 Open to
 
-- Project ideas
-- Mentorship conversations
-- Portfolio feedback
-- Creative tech experiments
-- Collaborating on meaningful web or interactive experiences
+Project ideas, mentorship conversations, feedback, or just talking through something interesting you're building.
 
-If you’re working on something interesting, I’d be happy to connect.
-
-### 📫 Contact
-
-**Email:** jrud25@outlook.com  
-[**LinkedIn**](https://www.linkedin.com/in/jordan-rudman/)  
-[**Handshake**](https://app.joinhandshake.com/profiles/5z6r4n)
+📫 [Email](mailto:jrud25@outlook.com) · [LinkedIn](https://www.linkedin.com/in/jordan-rudman/) · [Handshake](https://app.joinhandshake.com/profiles/5z6r4n)
 
 <!---
 jrudman25/jrudman25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
