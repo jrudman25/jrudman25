@@ -16,7 +16,7 @@ Software developer building full-stack, real-time, and AI-integrated web apps wi
 **TuneTeaser** — music trivia game testing your knowledge against your own playlists, with a Firebase/Cloud Run Spotify proxy
 → [Live](https://tuneteaser.web.app/) · [Repo](https://github.com/jrudman25/TuneTeaser)
 
-**PixLog** — A collaborative, mobile-first photo timeline app with invites, realtime comments, and location enrichment. 
+**PixLog** — A collaborative, mobile-first photo timeline app with invites, realtime comments, and automatic EXIF-based date sorting. 
 → [Live](https://pix-log.vercel.app/) · [Repo](https://github.com/jrudman25/PixLog)
 
 ### 🛠️ Stack
@@ -25,7 +25,7 @@ TypeScript · React · Next.js · Go · Supabase · Upstash Redis · Vercel · L
 
 ### ⚡ How I work
 
-I write custom agent rules and skills for my agents rather than using AI tools out of the box (I've written about it [here](https://dev.to/jrud25/stop-repeating-yourself-use-rules-and-skills-to-level-up-your-ai-agent-3699)) and lean on Claude/Codex for research, prototyping, and debugging throughout my process.
+I write custom rules and skills for my agents rather than using AI tools out of the box (I've written about it [here](https://dev.to/jrud25/stop-repeating-yourself-use-rules-and-skills-to-level-up-your-ai-agent-3699)) and lean on Claude/Codex for research, prototyping, and debugging throughout my process.
 
 ### 🌱 Currently
 
