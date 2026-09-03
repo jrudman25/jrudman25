@@ -1,41 +1,55 @@
-### 👋 Hi, I'm Jordan
+<h1 align="center">Jordan Rudman</h1>
 
-Software developer building full-stack, real-time, and AI-integrated web apps with React, Next.js, Go, TypeScript, and Postgres. I like shipping things that are fast, useful, and don't cut corners on architecture.
+<p align="center">
+  <strong>Full-stack software engineer building production-minded web applications.</strong><br>
+  Real-time systems, secure integrations, and practical AI-assisted products.
+</p>
 
-### 🚀 What I've shipped
+<p align="center">
+  <a href="mailto:jrud25@outlook.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/jordan-rudman/">LinkedIn</a> ·
+  <a href="https://dev.to/jrud25">DEV</a> ·
+  <a href="https://rudman-portfolio.web.app/">Portfolio</a>
+</p>
 
-**LivePulse** — real-time event platform with concurrent Go WebSocket hubs, load-tested at 47 msg/sec @ 250ms p95 latency
-→ [Live](https://livepulse-hq.vercel.app/) · [Repo](https://github.com/jrudman25/LivePulse)
+---
 
-**Guidepost** — job discovery platform with Gemini-powered resume parsing and automated daily listing ingestion
-→ [Live](https://guidepost-ai.vercel.app) · [Repo](https://github.com/jrudman25/guidepost)
+## Featured work
 
-**ScoreSeeker** — sports stats app indexing 20,000+ teams via secure server-side API integration
-→ [Live](https://scoreseeker.netlify.app/) · [Repo](https://github.com/jrudman25/ScoreSeeker)
+<table>
+  <tr>
+    <td width="33.33%" valign="top">
+      <h3><a href="https://github.com/jrudman25/guidepost">Guidepost</a></h3>
+      <p>AI-assisted job discovery and application tracking with automated ingestion, resume parsing, match scoring, and analytics.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Gemini</code></p>
+      <p><a href="https://guidepost-ai.vercel.app"><strong>Live app</strong></a></p>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3><a href="https://github.com/jrudman25/LivePulse">LivePulse</a></h3>
+      <p>Real-time event chat with Go WebSocket hubs, bounded message processing, JWT authentication, and Redis-backed history.</p>
+      <p><code>Go</code> <code>Next.js</code> <code>PostgreSQL</code> <code>Redis</code></p>
+      <p><a href="https://livepulse-hq.vercel.app/"><strong>Live app</strong></a></p>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3><a href="https://github.com/jrudman25/TuneTeaser">TuneTeaser</a></h3>
+      <p>Single-player and multiplayer music trivia using Spotify playlists and server-controlled game state.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Firebase</code> <code>Spotify</code></p>
+      <p><a href="https://tuneteaser.web.app/"><strong>Live app</strong></a></p>
+    </td>
+  </tr>
+</table>
 
-**TuneTeaser** — music trivia game testing your knowledge against your own playlists, with a Firebase/Cloud Run Spotify proxy
-→ [Live](https://tuneteaser.web.app/) · [Repo](https://github.com/jrudman25/TuneTeaser)
+## Currently building
 
-**PixLog** — A collaborative, mobile-first photo timeline app with invites, realtime comments, and automatic EXIF-based date sorting. 
-→ [Live](https://pix-log.vercel.app/) · [Repo](https://github.com/jrudman25/PixLog)
+**[LifeHub](https://github.com/jrudman25/LifeHub)** is an always-on AI agent runtime with durable task orchestration, PostgreSQL/pgvector memory, and a Telegram interface.
 
-### 🛠️ Stack
+**Repfolio** is an AI-powered GitHub portfolio manager that syncs repositories, generates project summaries, identifies technologies, and provides RAG-based chat over codebase context.
 
-TypeScript · React · Next.js · Go · Supabase · Upstash Redis · Vercel · LLM APIs
+I'm documenting some of my work and what I learn along the way on [DEV](https://dev.to/jrud25).
 
-### ⚡ How I work
+## Open to
 
-I write custom rules and skills for my agents rather than using AI tools out of the box (I've written about it [here](https://dev.to/jrud25/stop-repeating-yourself-use-rules-and-skills-to-level-up-your-ai-agent-3699)) and lean on Claude/Codex for research, prototyping, and debugging throughout my process.
-
-### 🌱 Currently
-
-Building [LifeHub](https://github.com/jrudman25/LifeHub), an always-on AI agent runtime (Next.js dashboard + Postgres/pgvector + Telegram interface). Writing about what I learn on [DEV](https://dev.to/jrud25).
-
-### 🤝 Open to
-
-Project ideas, mentorship conversations, feedback, or just talking through something interesting you're building.
-
-📫 [Email](mailto:jrud25@outlook.com) · [LinkedIn](https://www.linkedin.com/in/jordan-rudman/) · [Handshake](https://app.joinhandshake.com/profiles/5z6r4n)
+Full-time software engineering roles, project collaboration, and conversations about interesting systems.
 
 <!---
 jrudman25/jrudman25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
