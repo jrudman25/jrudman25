@@ -32,7 +32,7 @@
     </td>
     <td width="33.33%" valign="top">
       <h3><a href="https://github.com/jrudman25/TuneTeaser">TuneTeaser</a></h3>
-      <p>Single-player and multiplayer music trivia using Spotify playlists and server-controlled game state.</p>
+      <p>Single-player and multiplayer music trivia using Spotify playlists, server-controlled game state, and a real-time leaderboard.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Firebase</code> <code>Spotify</code></p>
       <p><a href="https://tuneteaser.web.app/"><strong>Live app</strong></a></p>
     </td>
@@ -43,7 +43,7 @@
 
 **[LifeHub](https://github.com/jrudman25/LifeHub)** is an always-on AI agent runtime with durable task orchestration, PostgreSQL/pgvector memory, and a Telegram interface.
 
-**Repfolio** is an AI-powered GitHub portfolio manager that syncs repositories, generates project summaries, identifies technologies, and provides RAG-based chat over codebase context.
+**[Repfolio](https://github.com/jrudman25/Repfolio)** is an AI-powered GitHub portfolio manager that syncs repositories, generates project summaries, identifies technologies, and provides RAG-based chat over repository context.
 
 I'm documenting some of my work and what I learn along the way on [DEV](https://dev.to/jrud25).
 
