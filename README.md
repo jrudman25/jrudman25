@@ -20,19 +20,19 @@
   <tr>
     <td width="33.33%" valign="top">
       <h3><a href="https://github.com/jrudman25/guidepost">Guidepost</a></h3>
-      <p>AI-assisted job discovery and application tracking with automated ingestion, resume parsing, match scoring, and analytics.</p>
+      <p>AI-assisted job discovery and application tracking tool with automated ingestion, resume parsing, match scoring, and visual analytics.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Gemini</code></p>
       <p><a href="https://guidepost-ai.vercel.app"><strong>Live app</strong></a></p>
     </td>
     <td width="33.33%" valign="top">
       <h3><a href="https://github.com/jrudman25/LivePulse">LivePulse</a></h3>
-      <p>Real-time event chat with Go WebSocket hubs, bounded message processing, JWT authentication, and Redis-backed history.</p>
+      <p>Real-time event chat platform with Go WebSocket hubs, bounded message processing, JWT authentication, and Redis-backed history.</p>
       <p><code>Go</code> <code>Next.js</code> <code>PostgreSQL</code> <code>Redis</code></p>
       <p><a href="https://livepulse-hq.vercel.app/"><strong>Live app</strong></a></p>
     </td>
     <td width="33.33%" valign="top">
       <h3><a href="https://github.com/jrudman25/TuneTeaser">TuneTeaser</a></h3>
-      <p>Single-player and multiplayer music trivia using Spotify playlists, server-controlled game state, and a real-time leaderboard.</p>
+      <p>Single-player and multiplayer music trivia game using Spotify playlists, server-controlled game state, and a real-time leaderboard.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Firebase</code> <code>Spotify</code></p>
       <p><a href="https://tuneteaser.web.app/"><strong>Live app</strong></a></p>
     </td>
