@@ -43,7 +43,7 @@
 
 **[LifeHub](https://github.com/jrudman25/LifeHub)** is an always-on AI agent runtime with durable task orchestration, PostgreSQL/pgvector memory, and a Telegram interface.
 
-**[Repfolio](https://github.com/jrudman25/Repfolio)** is an AI-powered GitHub portfolio manager that syncs repositories, generates project summaries, identifies technologies, and provides RAG-based chat over repository context.
+**[Proofstack](https://github.com/jrudman25/Proofstack)** is an AI-powered GitHub portfolio manager that syncs repositories, generates project summaries, identifies technologies, and provides RAG-based chat over repository context.
 
 I'm documenting some of my work and what I learn along the way on [DEV](https://dev.to/jrud25).
 
