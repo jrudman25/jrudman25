@@ -41,7 +41,7 @@
 
 ## Currently building
 
-**[LifeHub](https://github.com/jrudman25/LifeHub)** is an always-on AI agent runtime with durable task orchestration, PostgreSQL/pgvector memory, and a Telegram interface.
+**[Touchstone](https://github.com/jrudman25/Touchstone)** is an LLM evaluation dashboard for comparing prompt versions and LLMs on quality, latency, and cost, with live runs and automatic regression detection. Runs fully locally with Ollama.
 
 **[Proofstack](https://github.com/jrudman25/Proofstack)** is an AI-powered GitHub portfolio manager that syncs repositories, generates project summaries, identifies technologies, and provides RAG-based chat over repository context.
 
